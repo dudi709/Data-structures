@@ -1,3 +1,3 @@
 # Data-structures
-  -LinkedList
-  -Stack & Queue using linkedlist.
+  *LinkedList
+  *Stack & Queue using linkedlist.
